@@ -10,34 +10,34 @@ Estructura del repositorio
 ------------------------------------------------------------
 
 ### Keras-XOR/
-    Ejemplo básico usando Keras para resolver el problema XOR. Ideal para entender redes neuronales simples.
+Ejemplo básico usando Keras para resolver el problema XOR. Ideal para entender redes neuronales simples.
 
 ### MFCC Con microfono/
-    Extracción de coeficientes MFCC en tiempo real a partir del micrófono. Útil para reconocimiento de voz.
+Extracción de coeficientes MFCC en tiempo real a partir del micrófono. Útil para reconocimiento de voz.
 
 ### MTCNNEnimagenes/
-    Uso de MTCNN para detección de rostros en imágenes.
+Uso de MTCNN para detección de rostros en imágenes.
 
 ### Reconocimiento de voz/
-    Scripts para convertir audio en texto utilizando diferentes librerías de STT (Speech-To-Text).
+Scripts para convertir audio en texto utilizando diferentes librerías de STT (Speech-To-Text).
 
 ### Yolo Train Roboflow Universe/
-    Proyecto de entrenamiento de YOLO usando datasets de Roboflow Universe.
+Proyecto de entrenamiento de YOLO usando datasets de Roboflow Universe.
 
 ### clasificador comentarios negocio/
-    Clasificador de comentarios para detectar sentimiento o tipo de mensaje en un negocio.
+Clasificador de comentarios para detectar sentimiento o tipo de mensaje en un negocio.
 
 ### codelab-face-dlib-video/
-    Detección de rostros en video usando dlib.
+Detección de rostros en video usando dlib.
 
 ### deteccion SSD vs YOLO/
-    Comparativa entre SSD y YOLO para detección de objetos. Incluye scripts de evaluación y entrenamiento.
+Comparativa entre SSD y YOLO para detección de objetos. Incluye scripts de evaluación y entrenamiento.
 
 ### deteccion-yolo-lite/
-    Implementación ligera de YOLO para dispositivos con menos recursos.
+Implementación ligera de YOLO para dispositivos con menos recursos.
 
 ### estafa spam/
-    Clasificador para detectar mensajes de estafa/spam.
+Clasificador para detectar mensajes de estafa/spam.
 
 ------------------------------------------------------------
 Requisitos
