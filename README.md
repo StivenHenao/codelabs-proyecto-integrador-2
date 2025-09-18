@@ -39,6 +39,11 @@ Implementación ligera de YOLO para dispositivos con menos recursos.
 ### estafa spam/
 Clasificador para detectar mensajes de estafa/spam.
 
+### triage mensajes/
+Clasificador para detectar mensajes según categoria: ventas, soporte o queja.
+Adicionalmente, se integra este modelo en un servicio sencillo con FastAPI
+
+
 ------------------------------------------------------------
 Requisitos
 ------------------------------------------------------------
