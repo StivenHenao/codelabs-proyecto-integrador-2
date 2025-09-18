@@ -1,0 +1,29 @@
+# Ignorar carpetas de historial en cualquier lado
+.history/
+**/.history/
+
+# Ignorar entornos virtuales en cualquier carpeta
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Archivos de entorno
+.env
+**/.env
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints y salidas de ML opcionales
+.ipynb_checkpoints/
+runs/
+outputs/
+checkpoints/
+logs/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
