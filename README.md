@@ -21,9 +21,6 @@ Uso de MTCNN para detección de rostros en imágenes.
 ### Reconocimiento de voz/
 Scripts para convertir audio en texto utilizando diferentes librerías de STT (Speech-To-Text).
 
-### Yolo Train Roboflow Universe/
-Proyecto de entrenamiento de YOLO usando datasets de Roboflow Universe.
-
 ### clasificador comentarios negocio/
 Clasificador de comentarios para detectar sentimiento o tipo de mensaje en un negocio.
 
@@ -35,14 +32,6 @@ Comparativa entre SSD y YOLO para detección de objetos. Incluye scripts de eval
 
 ### deteccion-yolo-lite/
 Implementación ligera de YOLO para dispositivos con menos recursos.
-
-### estafa spam/
-Clasificador para detectar mensajes de estafa/spam.
-
-### triage mensajes/
-Clasificador para detectar mensajes según categoria: ventas, soporte o queja.
-Adicionalmente, se integra este modelo en un servicio sencillo con FastAPI
-
 
 ------------------------------------------------------------
 Requisitos
